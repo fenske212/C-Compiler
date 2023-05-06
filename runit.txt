@@ -1,0 +1,2 @@
+./a.out 1 < testcases/test02.txt
+./a.out 5 < tests/test02.txt

@@ -1,0 +1,29 @@
+x;
+y;
+z;
+{
+input x;
+input y;
+input z;
+SWITCH x {
+    CASE 1:
+    {
+        output x;
+    }
+    CASE 2:
+    {
+        output y;
+    }
+    CASE 3:
+    {
+        output z;
+    }
+    DEFAULT:
+    {
+        output x;
+        output y;
+        output z;
+    }
+}
+}
+1 4 3 2 1
