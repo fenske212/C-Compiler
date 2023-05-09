@@ -2,6 +2,7 @@
 //Takes C++ syntax as input and compiles in C++
 
 //Example test case
+
 (base) fenske212@MacBook-Pro CSE340PJ3 % make
 g++ demo.o inputbuf.o lexer.o compiler.o
 
