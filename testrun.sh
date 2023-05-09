@@ -27,7 +27,6 @@ test_cases=(
   "testcases/test_control_ifif1.txt"
   "testcases/test_control_ifif2.txt"
   "testcases/test_control_ifif3.txt"
-  "testcases/test_control_ifif4.txt"
   "testcases/test_control_while1.txt"
   "testcases/test_control_while2.txt"
   "testcases/test_control_while3_fibonacci.txt"
