@@ -1,4 +1,4 @@
-# C-Compiler
+# Cpp-Compiler
 //Takes C++ syntax as input and compiles in C++
 
 //Example test case
